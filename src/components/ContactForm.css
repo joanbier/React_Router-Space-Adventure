@@ -1,0 +1,45 @@
+.contact {
+    text-align: center;
+    width: 80vw;
+}
+
+.contact textarea {
+    margin: 10px 0;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    min-height: 150px;
+    padding: 5px;
+    line-height: 1.6;
+}
+
+.contact button {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: royalblue;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: .2s;
+}
+
+.contact button:hover {
+    background-color: goldenrod;
+    color: whitesmoke;
+}
+
+@media (max-width: 500px) {
+
+    .contact {
+        width: 90vw;
+    }
+
+    .contact textarea {
+
+        width: 90%;
+    }
+}

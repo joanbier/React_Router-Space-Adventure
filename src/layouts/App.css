@@ -1,0 +1,50 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  margin: 0 auto;
+  color: whitesmoke;
+  background-color: #222;
+}
+
+header {
+  flex-basis: 40vh;
+  overflow: hidden;
+}
+
+main {
+  padding: 30px 50px;
+  margin: 0 auto;
+  max-width: 1400px;
+  flex-grow: 1;
+}
+
+footer {
+  flex-grow: 1;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+}
+
+footer i {
+  font-size: 25px;
+  margin: 10px;
+  transition: .2s;
+  cursor: pointer;
+}
+
+footer i:hover {
+  color: royalblue;
+  font-size: 28px;
+}
+
+@media (max-width: 500px) {
+  main {
+    padding: 10px 5px;
+    margin-top: 20px;
+  }
+}
