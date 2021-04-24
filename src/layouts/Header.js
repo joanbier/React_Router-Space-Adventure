@@ -39,7 +39,7 @@ const Header = () => {
       <Route>
         <Switch>
           {/* <Img1 exact path="/"></Img1> */}
-          <Video autoPlay loop muted exact path="/">
+          <Video autoPlay controls={false} loop muted exact path="/">
             <source src={video} type="video/mp4" />
           </Video>
           <Img2 path="/products"></Img2>
