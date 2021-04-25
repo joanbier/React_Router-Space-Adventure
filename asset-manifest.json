@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_Router-Space-Adventure/static/css/main.258c0aad.chunk.css",
-    "main.js": "/React_Router-Space-Adventure/static/js/main.2a9db5f6.chunk.js",
-    "main.js.map": "/React_Router-Space-Adventure/static/js/main.2a9db5f6.chunk.js.map",
+    "main.css": "/React_Router-Space-Adventure/static/css/main.8f8c7ed4.chunk.css",
+    "main.js": "/React_Router-Space-Adventure/static/js/main.0c3d1f14.chunk.js",
+    "main.js.map": "/React_Router-Space-Adventure/static/js/main.0c3d1f14.chunk.js.map",
     "runtime-main.js": "/React_Router-Space-Adventure/static/js/runtime-main.90085208.js",
     "runtime-main.js.map": "/React_Router-Space-Adventure/static/js/runtime-main.90085208.js.map",
     "static/js/2.1e3783e7.chunk.js": "/React_Router-Space-Adventure/static/js/2.1e3783e7.chunk.js",
     "static/js/2.1e3783e7.chunk.js.map": "/React_Router-Space-Adventure/static/js/2.1e3783e7.chunk.js.map",
     "index.html": "/React_Router-Space-Adventure/index.html",
-    "static/css/main.258c0aad.chunk.css.map": "/React_Router-Space-Adventure/static/css/main.258c0aad.chunk.css.map",
+    "static/css/main.8f8c7ed4.chunk.css.map": "/React_Router-Space-Adventure/static/css/main.8f8c7ed4.chunk.css.map",
     "static/js/2.1e3783e7.chunk.js.LICENSE.txt": "/React_Router-Space-Adventure/static/js/2.1e3783e7.chunk.js.LICENSE.txt",
     "static/media/Millennium-Falcon.787af463.jpg": "/React_Router-Space-Adventure/static/media/Millennium-Falcon.787af463.jpg",
     "static/media/bcg.59d54d2a.mp4": "/React_Router-Space-Adventure/static/media/bcg.59d54d2a.mp4",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.90085208.js",
     "static/js/2.1e3783e7.chunk.js",
-    "static/css/main.258c0aad.chunk.css",
-    "static/js/main.2a9db5f6.chunk.js"
+    "static/css/main.8f8c7ed4.chunk.css",
+    "static/js/main.0c3d1f14.chunk.js"
   ]
 }
